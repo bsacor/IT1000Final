@@ -6,10 +6,10 @@ I am an IT student at the University of Missouri - Columbia, and I am currently 
 
 ### [Profile](profile.md)
 
-### [My Plan]()
+### [My Plan](myplan.md)
 
-### Maine South High School [Acheivments]() 2016-2020
+### Maine South High School [Acheivments](acheivments.md) 2016-2020
 
-### Summer [Work Experience]()
+### Summer [Work Experience](workexperience.md)
 
-### [References]()
+### [References](references.md)
