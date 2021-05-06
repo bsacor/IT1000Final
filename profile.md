@@ -2,8 +2,6 @@
 
 Creative IT major who wants to help organizations operate efficiently and continually improve their processes
 
-<br />
-
 ## Major Strengths
 1. Detail Oriented
 2. Determined
