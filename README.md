@@ -2,4 +2,14 @@
 
 ## My name is Benjamin Sacor and this is my resume
 
+I am an IT student at the University of Missouri - Columbia, and I am currently a freshman.
+
 ### [Profile](profile.md)
+
+### [My Plan]()
+
+### Maine South High School [Acheivments]() 2016-2020
+
+### Summer [Work Experience]()
+
+### [References]()
