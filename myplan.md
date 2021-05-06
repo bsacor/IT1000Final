@@ -1,0 +1,1 @@
+I would like to do course work, obtain internships and work experience that can help me determine which career pathway would be best for me. My goal is to identify the work sector, industry and positions best for my work in IT.
