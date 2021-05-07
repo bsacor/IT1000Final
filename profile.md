@@ -1,4 +1,4 @@
-# Profile ![](https://brandslogos.com/wp-content/uploads/images/missouri-tigers-logo-vector.svg)
+# Profile ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/1200px-Missouri_Tigers_logo.svg.png)
 
 Creative IT major who wants to help organizations operate efficiently and continually improve their processes
 
