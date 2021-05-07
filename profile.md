@@ -1,4 +1,4 @@
-# Profile ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/1200px-Missouri_Tigers_logo.svg.png)
+# Profile ![](https://www.eastcentral.edu/wp-content/uploads/2019/10/MU_UniversitySig_vert_RGB.png)
 
 Creative IT major who wants to help organizations operate efficiently and continually improve their processes
 
