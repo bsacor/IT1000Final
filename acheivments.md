@@ -2,6 +2,7 @@
 
 [Maine South Website](https://south.maine207.org)
 <br />
+<br />
 I attended Maine South High School in Park Ridge, IL
 
 1. Names by Coach as Best Senior Varisity Baseball Player
