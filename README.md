@@ -1,6 +1,6 @@
 # *IT1000Final*
 
-##My name is Benjamin Sacor and this is my resume   
+## My name is Benjamin Sacor and this is my resume   
 
 [Missouri University Website](https://missouri.edu)
 
